@@ -1,0 +1,4 @@
+font color var ar modda rakta hoba
+box icon ar bootstrap icon use kora jaba
+primary font : Amiri
+secandary font : open sans
